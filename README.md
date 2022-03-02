@@ -1,5 +1,5 @@
 Kanaka Baldy 
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -13,7 +13,7 @@ Kanaka Baldy
       <h1> Kanaka Baldy </h1>
       </header>
       <hr>
-      <img src = "IMG-4017.JPG" width="45" alt="my picture">
+      <img src = "IMG-4017.JPG" width="55" alt="my picture">
      
 <hr>
 <!-- Here is a little section explaining where I am from and what my previous career -->
