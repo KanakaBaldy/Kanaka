@@ -1,2 +1,31 @@
 Kanaka Baldy 
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    
+    <header>
+      <h1> Kanaka Baldy </h1>
+      </header>
+      <hr>
+      <img src = "picture.jpg" width="45" alt="my picture">
+     
+<hr>
+<!-- Here is a little section explaining where I am from and what my previous career -->
+      <main> 
+        
+        <h2> Hi! I'm Kanaka Baldy</h2>
+        <p> I am a new web developer living in Yorkville, Illinois </p>
+        <p> I have been a reading teacher for the last 9 years and I am excited to start a new journey! <p>
+        <p> Please take a look at my website and feel free to reachout. </p>
+      
+      </main>
+        <hr>
+      
+    <!--This is my About Me section, giving potential employers information about my background and who I am -->
+    <article>
