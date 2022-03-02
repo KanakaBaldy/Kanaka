@@ -15,17 +15,3 @@ Kanaka Baldy
       <hr>
       <img src = "IMG-4017.JPG" width="55" alt="my picture">
      
-<hr>
-<!-- Here is a little section explaining where I am from and what my previous career -->
-      <main> 
-        
-        <h2> Hi! I'm Kanaka Baldy</h2>
-        <p> I am a new web developer living in Yorkville, Illinois </p>
-        <p> I have been a reading teacher for the last 9 years and I am excited to start a new journey! <p>
-        <p> Please take a look at my website and feel free to reachout. </p>
-      
-      </main>
-        <hr>
-      
-    <!--This is my About Me section, giving potential employers information about my background and who I am -->
-    <article>
