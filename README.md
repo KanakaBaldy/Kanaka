@@ -1,4 +1,4 @@
-Kanaka Baldy 
+
 
 <html lang="en">
   <head>
