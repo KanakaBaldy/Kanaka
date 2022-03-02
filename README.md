@@ -1,6 +1,15 @@
-      <html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    
+    <header>
       <h1> Kanaka Baldy </h1>
-
-      <img src = "IMG-4017.JPG" width="55">
-      </html>
+      </header>
+      <hr>
+      <img src = "IMG-4017.JPG" width="45" alt="my picture">
      
